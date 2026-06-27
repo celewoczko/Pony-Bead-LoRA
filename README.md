@@ -1,2 +1,7 @@
-# Pony-Bead-LoRA
-A LoRA for the purpose of generating images of plastic pony beads
+# Pony Bead Generator LoRA (FLUX)
+
+A LoRA trained to generate realistic pony beads for synthetic dataset creation.
+
+Model type: FLUX LoRA  
+Training platform: Tensor.Art  
+Use case: Synthetic data for object detection / classification
